@@ -12,7 +12,7 @@ Currently working with Angular and NestJs
 
 <h3 align="left">Languages and Tools I'm familiar with:</h3>
 <div align="center">
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kowalowy1234&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+	![](https://github-readme-stats.vercel.app/api/top-langs/?username=kowalowy1234&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
 <div align="center">
