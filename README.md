@@ -11,11 +11,10 @@ Currently working with Angular and NestJs
 </p>
 
 <h3 align="left">Languages and Tools I'm familiar with:</h3>
-<div align="center">
-	![](https://github-readme-stats.vercel.app/api/top-langs/?username=kowalowy1234&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-</div>
 
-<div align="center">
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kowalowy1234&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+<div>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
