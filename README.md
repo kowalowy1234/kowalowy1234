@@ -1,5 +1,9 @@
 <h1 align="center">Hello, my name is Piotr</h1>
-<h3 align="center">I'm an aspiring web developer focused on Javascript and technologies built around that language.</h3>
+<h3 align="center">
+I'm an aspiring web developer focused on Javascript and technologies built around that language.
+  
+Currently working with Angular and NestJs
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kowalowy1234&label=Profile%20views&color=0e75b6&style=flat" alt="kowalowy1234" /> </p>
 
